@@ -1,7 +1,7 @@
 # Project 01 - Energy Dashboard
 
-## Goal
-Create a **Power BI** dashboard to visualize open data from the *Operador Nacional do Sistema (ONS)*, cleaned and processed using **Python** and **AI Tools** to generate insights. Whatever relevant piece of information gained can be shared via **LinkedIn** post for visibility
+## (initial) Goal
+Create a **Power BI** dashboard to visualize open data from the *Operador Nacional do Sistema (ONS)*, cleaned and processed using **Python** and **AI Tools** to generate insights. Whatever relevant piece of information gained can be shared via **LinkedIn** post for visibility (optional).
 
 ## Steps
 1. Download the dataset from *ONS*;
